@@ -1,8 +1,8 @@
-package com.example.gestion_inventario_pedido;
+package com.example.gestion_inventario_pedidos;
 
-import com.example.gestion_inventario_pedido.model.Categoria;
-import com.example.gestion_inventario_pedido.repository.CategoriaRepository;
-import com.example.gestion_inventario_pedido.service.CategoriaService;
+import com.example.gestion_inventario_pedidos.model.Categoria;
+import com.example.gestion_inventario_pedidos.repository.CategoriaRepository;
+import com.example.gestion_inventario_pedidos.service.impl.CategoriaServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
@@ -22,7 +22,7 @@ class CategoriaServiceTest {
     private CategoriaRepository categoriaRepository;
 
     @InjectMocks
-    private CategoriaService categoriaService;
+    private CategoriaServiceImpl categoriaService;
 
     @BeforeEach
     void setUp() {
