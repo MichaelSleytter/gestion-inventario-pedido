@@ -101,12 +101,4 @@ gestion-inventario-pedidos/
 
 ---
 
-## Enlace a la aplicación
-
-[Se completará en el Hito 4 con el despliegue en la nube]
-
-gestion-inventario-pedido
-Sistema Web de Gestión de Inventario y Pedidos para una Distribuidora Comercial
-
-SWAGGER:http://localhost:8080/swagger-ui/index.html#/
-fase-01
+CANVA:https://www.canva.com/design/DAHIG4JK4gQ/mod1JlW-Q3ICjJBFg2HYPg/edit
