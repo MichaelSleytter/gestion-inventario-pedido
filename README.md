@@ -1,3 +1,4 @@
+feature/configuracion-repositorio
 # Sistema Web de Gestión de Inventario y Pedidos
 
 ## Información General
@@ -103,3 +104,9 @@ gestion-inventario-pedidos/
 ## Enlace a la aplicación
 
 [Se completará en el Hito 4 con el despliegue en la nube]
+
+gestion-inventario-pedido
+Sistema Web de Gestión de Inventario y Pedidos para una Distribuidora Comercial
+
+SWAGGER:http://localhost:8080/swagger-ui/index.html#/
+fase-01
